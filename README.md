@@ -1,4 +1,4 @@
-🏨 AI Hotel Front-Desk & Payment Verification Bot — n8n Workflow
+# 🏨 AI Hotel Front-Desk & Payment Verification Bot — n8n Workflow
 
 An AI-powered hotel front-desk assistant built with n8n. Guests chat to check room availability and book rooms live via Google Sheets, upload a payment receipt for AI-powered verification via Groq's vision model, and a human operator gives final YES/NO approval by replying to an email — which then triggers the guest's confirmation or rejection email automatically.
 
